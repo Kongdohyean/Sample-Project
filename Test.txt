@@ -1,3 +1,7 @@
 Hello World
+<<<<<<< HEAD
 
+=======
+만일 내게 묻는다면 나는 왈도!
+>>>>>>> parent of 2f58644 (3)
 End
